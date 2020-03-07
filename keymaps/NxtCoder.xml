@@ -1,0 +1,17 @@
+<keymap version="1" name="NxtCoder" parent="Default for XWin">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>
